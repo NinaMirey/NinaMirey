@@ -17,6 +17,7 @@
   <a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"></a>
   <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
   <a href="https://www.java.com/de/"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>
+  <a href="https://de.wikipedia.org/wiki/JavaScript"><img src="https://img.shields.io/badge/javascript-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>
 </p>
 
 <div align="center">
