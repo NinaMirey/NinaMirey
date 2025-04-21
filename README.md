@@ -6,7 +6,7 @@
 <h1 align="center"> Welcome to my profile<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h1><br>
 
 <p align="center" >My name is Nina, and I am an Austrian informatics student. Currently, most of my repos are private because of work.</p>
-<div align="center"><img src="https://gist.githubusercontent.com/rwxd/156c789e9463b94e4d9a853932ae394e/raw/e8a79e787314f0853b4111d439e23528117953c1/tf2.gif" width="90"> </div>
+<div align="center"><img src="https://github.com/NinaMirey/just-a-cute-dog-picture-of-edgar/blob/main/just-a-cute-dog-picture-of-edgar.jpg" width="90"> </div>
 
 
 <h2 align="center">Currently building with:</a></h2>
